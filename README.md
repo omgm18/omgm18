@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omgm18
+
 - 👀 I’m interested in viet nam 
 - 🌱 I'm currently doing business
 - 💞️ I’m looking to collaborate on Student
