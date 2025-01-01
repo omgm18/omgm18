@@ -1,0 +1,35 @@
+# Function to introduce yourself
+def introduce_yourself(name, age, profession, hobbies):
+    """
+    This function generates a personal introduction message.
+    
+    Parameters:
+    name (str): Your name.
+    age (int): Your age.
+    profession (str): Your profession.
+    hobbies (list of str): A list of your hobbies.
+    
+    Returns:
+    str: A personal introduction message.
+    """
+    # Convert list of hobbies to a comma-separated string
+    hobbies_str = ", ".join(hobbies)
+    
+    # Create introduction message
+    introduction = (
+        f"Xin chào! Tôi là {name}. "
+        f"Tôi {age} tuổi và hiện đang làm việc như một {profession}. "
+        f"Một số sở thích của tôi bao gồm: {hobbies_str}."
+    )
+    
+    return introduction
+
+# Example usage
+name = "Nguyễn Văn A"
+age = 25
+profession = "kỹ sư phần mềm"
+hobbies = ["đọc sách", "chơi thể thao", "du lịch"]
+
+# Generate and print the introduction message
+intro_message = introduce_yourself(name, age, profession, hobbies)
+print(intro_message)
