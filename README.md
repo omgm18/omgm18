@@ -42,7 +42,7 @@ Check out my latest blog posts:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Personal Website](https://your-website.com)
 
